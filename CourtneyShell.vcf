@@ -10,6 +10,6 @@ TEL;type=WORK;type=VOICE:+1 512 476 7111
 ADR;TYPE=WORK,PREF:;;1015 East 32nd Street, Suite 414;Austin;TX;78705;United States of America
 LABEL;TYPE=WORK,PREF:1015 East 32nd Street\, Suite 414\nAustin\, TX 78705\nUnited States of America
 item1.X-ABADR:us
-item2.URL;type=pref:https://stdavidsresearch.com/leadership/3601/
+item2.URL;type=pref:https://https://www.linkedin.com/in/courtney-shell-7a252115/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
